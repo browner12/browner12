@@ -7,3 +7,12 @@ I'm a software engineer who is passionate about building intuitive and powerful 
 ## Find me around the web :earth_americas:
 
 - Sharing updates on <a href="https://twitter.com/waunakeesoccer1/">Twitter</a>
+
+## Notable contributions to Laravel
+
+- Factory States
+- Gate Resources
+- Collection `splintIn()`
+- "On-Demand" filesystem disks
+- "contains" validation rule
+- Password resets via Cache driver
