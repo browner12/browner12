@@ -6,7 +6,8 @@ I'm a software engineer who is passionate about building intuitive and powerful 
 
 ## Find me around the web :earth_americas:
 
-- Sharing updates on <a href="https://twitter.com/waunakeesoccer1/">Twitter</a>
+- [Bluesky](https://bsky.app/profile/andrew-brown-2.bsky.social)
+- [Twitter](https://twitter.com/waunakeesoccer1)
 
 ## Notable contributions to Laravel
 
